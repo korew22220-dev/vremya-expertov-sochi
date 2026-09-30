@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vremya-expertov-sochi.korew22220.chatgpt.site/sitemap.xml
